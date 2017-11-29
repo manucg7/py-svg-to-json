@@ -1,6 +1,6 @@
 # SVG TO JSON #
 
-Script que transforma los svg a json
+Script que transforma los svg a json, otorgandole ID a cada path, para poder manipular formas individualmente.
 
 
 
