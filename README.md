@@ -1,6 +1,6 @@
 # SVG TO JSON #
 
-Script for transform SVG files, it asign a unique ID for each path of canvas.
+Script for transform SVG files to JSON, it asign a unique ID for each path of canvas.
 *Script que transforma los SVG a JSON, otorgandole ID a cada trazado.*
 
 A unique Id Path, allow us identify specific elements, for example in a loop iteration.
